@@ -38,4 +38,6 @@ object **Leonardo Soares** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoqueiroz-code&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
+<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoqueiroz-code&theme=tokyonight" /></p>
+
 
