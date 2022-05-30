@@ -1,6 +1,6 @@
 ### Olá. tudo bem? 👋
 
-Me chamo leonardo, atualmente atuo no desenvolvimento de aplicações RPA, utilizando alguns frameworks do mercado, entre eles AA2019 e Blueprism.
+Me chamo leonardo, atualmente atuo no desenvolvimento de aplicações RPA, utilizando alguns frameworks , entre eles AA2019, Blueprism e Power Automate.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
