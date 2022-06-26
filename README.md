@@ -1,8 +1,8 @@
 ### Olá. tudo bem? 👋
 
-Me chamo leonardo, atualmente atuo no desenvolvimento de aplicações RPA, utilizando alguns frameworks , entre eles AA2019, Blueprism e Power Automate.
+Me chamo leonardo, atualmente atuo no desenvolvimento de aplicações RPA, especialização em Suites RPA entre eles AA2019, Blueprism e Power Platform.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src=""> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -34,11 +34,11 @@ object **Leonardo Soares** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoqueiroz-code&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoqueiroz-code&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
