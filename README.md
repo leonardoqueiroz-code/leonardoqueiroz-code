@@ -11,8 +11,8 @@ object **Leonardo Soares** {
  val name = "Leonardo Soares"
  val acknowledgements = "Desenvolvedor RPA"
  
- val ApplicationsSystems = listOf("Automation Anywhere", "BluePrism", "Power Platform", "OTRS") 
- val languages = listOf("Python", "JavaScript", "Php", ) 
+ val ApplicationsSystems = listOf("Automation Anywhere", "Blue Prism", "Power Platform", "OTRS") 
+ val languages = listOf("Python", "SQL", "C#", ) 
 
 }
 ```
